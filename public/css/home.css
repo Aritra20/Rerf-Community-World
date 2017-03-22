@@ -273,7 +273,7 @@ h2.style{
 }
 .main_text h2{
 	font-size: 2em;
-	color: #555555;
+	color: #d2113c;
 	font-family: 'Cagliostro', sans-serif;
 	text-transform: capitalize;
 	text-shadow: 0 1px 0 white;
@@ -282,7 +282,7 @@ h2.style{
 	line-height:1.5em;
 	margin:0.5em 0;
 	font-size: 1.5em;
-	color:rgb(191, 204, 41);
+	color:rgb(7, 127, 232);
 	font-family: 'Cagliostro', sans-serif;
 	text-transform: capitalize;
 	text-shadow: 0 1px 0 white;

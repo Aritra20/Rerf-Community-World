@@ -28,5 +28,5 @@ background: linear-gradient(to left, #c2e59c , #64b3f4); /* W3C, IE 10+/ Edge, F
 .thumbnail a>img, .thumbnail>img {
     margin-right: auto;
     margin-left: auto;
-    height: 320px;
+    height: 300px;
 }
